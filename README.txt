@@ -9,7 +9,7 @@ https://github.com/Merlin-san/UdonSharp
 
 Special thanks:
 orel1 for general unity/c#/udon help.
-petron1 for vector math help.
+peptron1 for vector math help.
 
 Credit is appreciated but not mandatory. If you would like to support me, I have a patreon.
 https://www.patreon.com/mcphersonsound
